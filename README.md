@@ -1,3 +1,2 @@
 # Mastering-Embedded-systems-Diploma
-![embedded1](https://github.com/user-attachments/assets/3d2c2601-59dc-4562-8506-651fd386b9ff)
-
+![Screenshot 2024-07-31 021022](https://github.com/user-attachments/assets/eca3f8cf-0fd2-47f7-b214-7b065ad322a1)
